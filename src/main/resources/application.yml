@@ -10,3 +10,11 @@ spring:
     hibernate:
       ddl-auto: update
     show-sql: true
+
+jwt:
+  secret: U0VSR0lPTUFSUVVFWkRFVg==
+
+admin:
+  email: "admin@test.com"
+  password: "admin"
+
